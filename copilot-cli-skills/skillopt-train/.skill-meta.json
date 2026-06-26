@@ -1,0 +1,13 @@
+{
+  "name": "skillopt-train",
+  "source": "local",
+  "description": "Run the full SkillOpt benchmark training loop using a config YAML.",
+  "whenToUse": "ベンチマーク訓練・train on alfworld / searchqa / spreadsheetbench・フルトレーニング実行",
+  "categories": [
+    "skillopt"
+  ],
+  "installedAt": "2026-06-25T07:53:44.000Z",
+  "relativePath": "skillopt-train",
+  "metadataVersion": 2,
+  "installedVia": "local"
+}

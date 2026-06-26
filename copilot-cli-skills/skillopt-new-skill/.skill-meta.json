@@ -1,0 +1,13 @@
+{
+  "name": "skillopt-new-skill",
+  "source": "local",
+  "description": "Create a new SKILL.md from scratch for any domain, then optionally optimize it immediately.",
+  "whenToUse": "新しいスキルを作る・スキルをゼロから作成・新ドメイン用スキル生成・create skill for X",
+  "categories": [
+    "skillopt"
+  ],
+  "installedAt": "2026-06-25T07:53:44.000Z",
+  "relativePath": "skillopt-new-skill",
+  "metadataVersion": 2,
+  "installedVia": "local"
+}

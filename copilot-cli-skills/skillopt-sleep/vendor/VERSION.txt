@@ -1,0 +1,5 @@
+SkillOpt-Sleep engine vendored from s-shimiz/SkillOpt
+source: skillopt_sleep/
+commit: 2d7e37a395b6ac833ee8169aa707c86d99bab211
+vendored_at: 2026-06-26 15:08:56
+license: MIT (see SkillOpt repository)
