@@ -1,0 +1,13 @@
+{
+  "name": "skillopt-eval",
+  "source": "local",
+  "description": "Evaluate a SKILL.md: Quick mode (self-contained vendor) or Benchmark mode (repo + deps + dataset).",
+  "whenToUse": "スキルを評価・スコアを確認・この skill は良いか・eval only・スキルの品質測定",
+  "categories": [
+    "skillopt"
+  ],
+  "installedAt": "2026-06-25T07:53:44Z",
+  "relativePath": "skillopt-eval",
+  "metadataVersion": 2,
+  "installedVia": "local"
+}

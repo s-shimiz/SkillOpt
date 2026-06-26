@@ -1,0 +1,13 @@
+{
+  "name": "skillopt-now",
+  "source": "local",
+  "description": "Run one SkillOpt cycle immediately via the vendored engine — self-contained, no repo/pip for mock.",
+  "whenToUse": "今すぐスキルを最適化・即時最適化・quick tune・今のタスクでスキル改善",
+  "categories": [
+    "skillopt"
+  ],
+  "installedAt": "2026-06-25T07:53:44Z",
+  "relativePath": "skillopt-now",
+  "metadataVersion": 2,
+  "installedVia": "local"
+}

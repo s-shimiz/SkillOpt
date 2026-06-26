@@ -1,0 +1,13 @@
+{
+  "name": "skillopt-sleep",
+  "source": "local",
+  "description": "Self-contained SkillOpt-Sleep cycle (vendored zero-dep engine) to evolve SKILL.md / memory from past sessions.",
+  "whenToUse": "sleep cycle 実行・過去セッションからの学習・スケジュール設定・adopt",
+  "categories": [
+    "skillopt"
+  ],
+  "installedAt": "2026-06-25T07:53:44Z",
+  "relativePath": "skillopt-sleep",
+  "metadataVersion": 2,
+  "installedVia": "local"
+}
